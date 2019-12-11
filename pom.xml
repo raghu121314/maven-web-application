@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.224.225.241:8081/repository/CK-ReLEASE/</url>
+	      <url>http://18.234.89.0:8081/repository/ck-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.224.225.241:8081/repository/CK-SNAPSHOT/</url>
+	      <url>http://18.234.89.0:8081/repository/ck-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
