@@ -22,7 +22,7 @@
 		Bangalore.
 		+91-9980923226,
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies           pandu</a>
 	</span>
 </div>
 <hr>
