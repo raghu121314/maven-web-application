@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to ChanikyaK AWS & Devops Technologies.</h1>
+<h1 align="center">Welcome to  K AWS & Devops Technologies.</h1>
 <h1 align="center">Very Good Training Teaching Real Time scnerios </h1>	
 <hr>
 <div style="text-align: center;">
