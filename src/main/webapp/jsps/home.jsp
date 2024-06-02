@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to  Devops jjs with you</h1>
-<h1 align="center">Very Good Training Teaching Real Time scnerios </h1>	
+<h1 align="center">Training Teaching Real Time scnerios </h1>	
 <hr>
 <div style="text-align: center;">
 	<span>
